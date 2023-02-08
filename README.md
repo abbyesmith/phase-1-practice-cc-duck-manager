@@ -4,17 +4,17 @@
 
 ## Getting Started
 
-Begin by opening the HTML with your browser of choice and running `json-server --watch db.json`.
+<!-- Begin by opening the HTML with your browser of choice and running `json-server --watch db.json`.
 
-For this challenge you'll be using the endpoint `http://localhost:3000/ducks`
+For this challenge you'll be using the endpoint `http://localhost:3000/ducks` -->
 
 ## Deliverable One
 
-When the page loads, fetch the ducks and display each duck image in the `#duck-nav`. You may need to do something to make sure your `script` tag is working in the HTML first...
+<!-- When the page loads, fetch the ducks and display each duck image in the `#duck-nav`. You may need to do something to make sure your `script` tag is working in the HTML first... -->
 
 ## Deliverable Two
 
-When a user clicks one of the duck images, it shows the duck's name, the image, and a likes button with the number of likes in the `#duck-display`like so:
+<!-- When a user clicks one of the duck images, it shows the duck's name, the image, and a likes button with the number of likes in the `#duck-display`like so:
 
 ```html
 <div id="duck-display">
@@ -28,7 +28,7 @@ When a user clicks one of the duck images, it shows the duck's name, the image, 
 </div>
 ```
 
-If another image is clicked in the `#duck-nav` it replaces the previous name, image, and button with the proper content.
+If another image is clicked in the `#duck-nav` it replaces the previous name, image, and button with the proper content. -->
 
 ## Deliverable Three
 
